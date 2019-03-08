@@ -1,1 +1,7 @@
 This is my first git file -- just learning
+
+1. first update
+
+2. Second update
+
+3. Third update
